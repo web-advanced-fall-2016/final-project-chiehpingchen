@@ -1,3 +1,7 @@
+Demo: http://chejsfinalblog.cosmicapp.co
+
+
+
 # Final Assignment
 
 Your last assignment is different from your previous assignments. This time you should come up with a proposal on what you want to make. Go back and think about what we discussed in our first session => the reason you are taking this course and what you want to learn from it. Or think how can JavaScript can help your thesis project and try to help your thesis (make an artifact for your thesis / data visualization / documentation website / blog). Teamwork is allowed, in fact you are encouraged to team up (maximum 2 per group. And of course, expectation is higher when doing a team project). Make something nice that you will be proud of. Make something that you will put it on your portfolio, despite how minimal it would be.
